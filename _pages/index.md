@@ -17,7 +17,7 @@ show_call_to_action: true
     <img class="homepage-cover__content__masthead" src="/assets/img/logo--masthead.svg">
     <span class="homepage-cover__content__tagline editable">Coming Soon:&nbsp;&nbsp;43 E Union Street, Pasadena CA</span>
     <br><br>
-    <span class="editable"><a href="http://thebottleroombar.com">From the team that brought you The Bottle Room</a></span>
+    <span class="editable"><a href="http://thebottleroombar.com">From the team behind The Bottle Room</a></span>
 
     <!-- <div class="homepage-cover__content__icons">
       <a href="tel:{{site.data.settings.location.phone_number}}">
