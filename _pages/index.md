@@ -13,11 +13,13 @@ show_call_to_action: true
   </div>
 
   <div class="homepage-cover__content">
-    <img class="homepage-cover__content__crest" src="/assets/img/crest--light.svg">
-    <img class="homepage-cover__content__masthead" src="/assets/img/masthead.svg">
-    <span class="homepage-cover__content__tagline editable">Upscale&nbsp;pub-fare in&nbsp;Uptown&nbsp;Whittier</span>
+    <img class="homepage-cover__content__crest" src="/assets/img/logo--monogram--gold.svg">
+    <img class="homepage-cover__content__masthead" src="/assets/img/logo--masthead.svg">
+    <span class="homepage-cover__content__tagline editable">Coming Soon:&nbsp;&nbsp;43 E Union Street, Pasadena CA</span>
+    <br><br>
+    <span class="editable"><a href="http://thebottleroombar.com">From the team that brought you The Bottle Room</a></span>
 
-    <div class="homepage-cover__content__icons">
+    <!-- <div class="homepage-cover__content__icons">
       <a href="tel:{{site.data.settings.location.phone_number}}">
         <img src="/assets/img/call.svg">
         <span>Call</span>
@@ -30,12 +32,12 @@ show_call_to_action: true
         <img src="/assets/img/directions.svg">
         <span>Map</span>
       </a>
-    </div>
+    </div> -->
 
   </div>
 
 
-  <div class="homepage-cover__foot">
+  <!-- <div class="homepage-cover__foot">
     <div class="homepage-cover__foot__container">
 
       <a class="homepage-cover__foot__hours" id="open-hours-modal">
@@ -54,12 +56,12 @@ show_call_to_action: true
       </div>
 
     </div>
-  </div>
+  </div> -->
 
 </header>
 
 
-<div class="slide slide--atmosphere cf-responsive">
+<!-- <div class="slide slide--atmosphere cf-responsive">
   <div class="slide__content">
     <h1 class="editable">A simple atmosphere</h1>
     <p class="editable">Showcased by a beautifully exposed brick wall and raw construction along side modern amenities, The Bottle Room evokes the idea of historic building revivals. The simplicity is intentional. It allows guests the opportunity to surround themselves in a cozy environment free from unwanted distractions. We believe the design should be in the food, the drinks and friends.</p>
@@ -147,4 +149,4 @@ show_call_to_action: true
   <a href="/menu/eats/" class="new-menu-cta__container">
     <span class="editable">The New Menu</span>
   </a>
-</div>
+</div> -->

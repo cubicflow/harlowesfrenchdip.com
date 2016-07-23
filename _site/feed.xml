@@ -3,8 +3,8 @@
     <channel>
         <title></title>
         <description>Site description</description>      
-        <link>thebottleroom.com</link>
-        <atom:link href="thebottleroom.com/feed.xml" rel="self" type="application/rss+xml" />
+        <link>harlowesfrenchdip.com</link>
+        <atom:link href="harlowesfrenchdip.com/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
                 <title>Welcome to Jekyll!</title>
@@ -14,8 +14,8 @@
 </description>
                 
                 <pubDate>Mon, 30 Nov 2015 00:00:00 -0800</pubDate>
-                <link>thebottleroom.com/blog/2015/welcome-to-jekyll/</link>
-                <guid isPermaLink="true">thebottleroom.com/blog/2015/welcome-to-jekyll/</guid>
+                <link>harlowesfrenchdip.com/blog/2015/welcome-to-jekyll/</link>
+                <guid isPermaLink="true">harlowesfrenchdip.com/blog/2015/welcome-to-jekyll/</guid>
             </item>
         
             <item>
@@ -26,8 +26,8 @@
 </description>
                 
                 <pubDate>Fri, 30 Oct 2015 00:00:00 -0700</pubDate>
-                <link>thebottleroom.com/blog/2015/lorem-ipsum/</link>
-                <guid isPermaLink="true">thebottleroom.com/blog/2015/lorem-ipsum/</guid>
+                <link>harlowesfrenchdip.com/blog/2015/lorem-ipsum/</link>
+                <guid isPermaLink="true">harlowesfrenchdip.com/blog/2015/lorem-ipsum/</guid>
             </item>
         
     </channel>

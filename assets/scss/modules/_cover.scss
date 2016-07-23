@@ -1,21 +1,21 @@
 
 .homepage-cover {
   width: 100%;
-  height: 90vh;
-  margin-top: -80px;
+  height: 100vh;
+  // margin-top: -80px;
   max-width: none;
   min-width: none;
   min-height: 460px;
-  max-height: 960px;
+  // max-height: 960px;
   position: relative;
   background-image: url(/assets/img/home/hero-cover.jpg);
   //background-attachment: fixed;
   background-position: center;
   background-size: cover;
 
-  @include breakpoint(medium) {
-    height: 98vh;
-  }
+  // @include breakpoint(medium) {
+  //   height: 98vh;
+  // }
 
   &__overlay {
     width: 100%;
@@ -33,13 +33,17 @@
     width: 90%;
     margin-left: 5%;
     top: 50%;
-    margin-top: -160px;
+    margin-top: -220px;
     text-align: center;
     position: absolute;
     z-index: 2;
 
+    a {
+      border-bottom: 1px dotted;
+    }
+
     @include breakpoint(medium) {
-      margin-top: -130px;
+      margin-top: -200px;
     }
 
     img {
@@ -49,28 +53,29 @@
     }
 
     &__crest {
-      width: 82px;
-      height: 80px;
-      margin-bottom: 35px;
+      width: 122px;
+      height: 100px;
+      margin-bottom: 40px;
 
       @include breakpoint(medium){
-        width: 102px;
-        height: 99px;
+        width: 150px;
+        height: 123px;
       }
     }
 
     &__masthead {
       width: 100%;
-      max-width: 432px;
-      height: 22px;
-      margin-bottom: 25px;
+      max-width: 250px;
+      height: 89px;
+      margin-bottom: 50px;
     }
 
     &__tagline {
       font-family: $font-family--light;
       line-height: 1.25em;
       @include font-size--medium();
-      @include show-for(medium);
+      // @include show-for(medium);
+
 
     }
 
