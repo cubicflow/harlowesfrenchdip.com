@@ -1,14 +1,14 @@
 online_ordering_enabled: false
 social_media:
-  facebook_url: https://www.facebook.com/thebottleroombar
-  twitter_url: https://twitter.com/thebottleroom
-  instagram_url: https://www.instagram.com/thebottleroom/
-  yelp_url: http://www.yelp.com/biz/the-bottle-room-whittier
+  facebook_url:
+  twitter_url:
+  instagram_url:
+  yelp_url:
 location:
-  phone_number: 562-696-8000
-  fax: 626-389-5407
-  address_line_1: 6741 Greenleaf Avenue
-  address_line_2: Whittier, CA 90601
-  email: info@thebottleroombar.com
-send_contact_to: info@thebottleroombar.com
-ordering_disabled_notice: Online ordering is currently disabled
+  phone_number:
+  fax:
+  address_line_1:
+  address_line_2:
+  email:
+send_contact_to:
+ordering_disabled_notice:
