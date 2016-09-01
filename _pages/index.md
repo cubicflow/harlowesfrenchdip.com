@@ -15,8 +15,10 @@ show_call_to_action: true
   <div class="homepage-cover__content">
     <img class="homepage-cover__content__crest" src="/assets/img/logo--monogram--gold.svg">
     <img class="homepage-cover__content__masthead" src="/assets/img/logo--masthead.svg">
-    <span class="homepage-cover__content__tagline editable">Coming Soon:&nbsp;&nbsp;43 E Union Street, Pasadena CA</span>
-    <br><br>
+    <span class="homepage-cover__content__tagline editable">Open Now:&nbsp;&nbsp;43 E Union Street, Pasadena CA</span>
+    <br><br><br>
+    <span class="editable">New website coming soon!</span>
+    <br>
     <span class="editable"><a href="http://thebottleroombar.com">From the team behind The Bottle Room</a></span>
 
     <!-- <div class="homepage-cover__content__icons">
